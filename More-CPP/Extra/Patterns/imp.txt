@@ -1,0 +1,13 @@
+pattern 1-10
+pattern 39-50,,,51-56
+pattern video part 22 imp
+
+pattern 1-43 = nested for loop
+pattern 44-58 = nested for+if else loop
+
+
+if(i==j) to get value of i & j at same position. like i=1 && j=1,i=3 && j=3....shpe like forward slash
+if(i>=j) or if(j<=i) to get pattern like pyramid or similiar
+n/2+1 to get center point of matrix or raw/column
+if (i == j || j == n-i+1) or if(i==j || (i+j)==(n+1)) to get shape like x
+if(i==1|| i=n || j==1 || j==n) to get pattern/shape like square(box)..

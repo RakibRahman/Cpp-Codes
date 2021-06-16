@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Modulo Operator", "Modulo Operator\Modulo Operator.vcxproj", "{20DB44EC-EACC-405D-B293-4EEB2A69F876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20DB44EC-EACC-405D-B293-4EEB2A69F876}.Debug|x64.ActiveCfg = Debug|x64
+		{20DB44EC-EACC-405D-B293-4EEB2A69F876}.Debug|x64.Build.0 = Debug|x64
+		{20DB44EC-EACC-405D-B293-4EEB2A69F876}.Debug|x86.ActiveCfg = Debug|Win32
+		{20DB44EC-EACC-405D-B293-4EEB2A69F876}.Debug|x86.Build.0 = Debug|Win32
+		{20DB44EC-EACC-405D-B293-4EEB2A69F876}.Release|x64.ActiveCfg = Release|x64
+		{20DB44EC-EACC-405D-B293-4EEB2A69F876}.Release|x64.Build.0 = Release|x64
+		{20DB44EC-EACC-405D-B293-4EEB2A69F876}.Release|x86.ActiveCfg = Release|Win32
+		{20DB44EC-EACC-405D-B293-4EEB2A69F876}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47E99E15-E8BC-42E0-AFF8-0AA8A5DDB720}
+	EndGlobalSection
+EndGlobal

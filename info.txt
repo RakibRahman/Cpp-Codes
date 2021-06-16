@@ -1,0 +1,39 @@
+#include <iostream> : in order to read/write standard input/output streams.
+Program will not run without #include <iostream> .
+
+using namespace std; // this is a using directive telling the compiler to check the std namespace when resolving identifiers with no prefix.
+
+#include <cstdlib> contains function that can generate random numbers.
+
+#include<ctime> is used to seed the random number generator with the current
+time.
+
+The file cstdlib contains functions that deal with generating random
+numbers.
+The function srand() , defined in cstdlib , seeds the random number
+generator.
+The function rand() , defined in cstdlib , returns a random number.
+
+The code static_cast<unsigned int> just converts (or casts) value to an unsigned int .
+
+Used in a loop, the break statement immediately ends the loop.
+Used in a loop, the continue statement immediately causes the control of the program to branch to the top of the loop.
+
+The && (AND) operator combines two simpler expressions to create a
+new expression that is true only if both simpler expressions are true .
+
+The || (OR) operator combines two simpler expressions to create a new
+expression that is true if either simpler expression is true .
+
+The ! (NOT) operator creates a new expression that is the opposite truth
+value of the original.
+
+switch statements only work with values that can be interpreted as int or char.
+#include <cctype> declares a set of functions to classify and transform individual characters.
+The subscript operator [] is normally used to access array elements.
+string::npos represents the largest possible size of a string object. it means “a position number that can’t
+exist.” 
+An enumeration is a user-defined data type that consists of integral constants.
+ To define an enumeration, keyword enum is used.
+ Objects are encapsulated, cohesive entities that combine data (called
+data members) and functions (called member functions).
